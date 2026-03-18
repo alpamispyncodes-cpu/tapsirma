@@ -1,0 +1,63 @@
+<style>
+      .taxtakopir{
+        color: rgb(81, 255, 0);
+        opacity: 0.5;
+    }
+
+      .taxtakopir:hover {
+        color: chocolate;
+      
+    }
+
+
+</style>
+
+<h1 class="taxtakopir">Salem Taxtakopir</h1>
+
+<style>
+  .krasopka{
+    color: rgb(255, 0, 0);
+  }
+</style>
+
+<h1 class="krasopka">Krasopka</h1>
+<style>
+    .sebet{
+        color: blueviolet;
+
+        transition-property: color;
+        transition-duration: 1s;
+        text-shadow: 1px 1px 1px;
+        opacity: 0.8;
+    }
+
+    .sebet:hover{
+        color :yellow
+    }
+
+
+</style>
+
+
+<button class="sebet">sebet</button>
+<style>
+    .tekst-qizil{
+        color: red;
+    }
+    .yellow{
+        color:rgb(25, 0, 255)
+    }
+    .alma{
+    color:green
+    }
+    .kok-button{
+        color: blue;
+    }
+</style>
+
+<h1 class="yellow">Menin miywelerim</h1>
+<p class="tekst-qizil">Alma</p>
+<p class="yellow">Banan</p>
+<p class="alma">Almurt</p>
+<p class="tekst-qizil">Pomidor</p>
+<button class="kok-button">Satip aliw</button>
